@@ -27,11 +27,11 @@ html {
 .banner {
   overflow: hidden;
   position: relative;
-  display: block;
   max-height: 24em;
 }
 
 .banner-content {
+  width: 100%;
   position: absolute;
   bottom: 0;
   left: 0;
